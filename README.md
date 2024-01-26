@@ -1,4 +1,4 @@
-# Prime Number Finder
+# Assignment 1
 
 ## Overview
 
